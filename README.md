@@ -22,8 +22,8 @@ You can find me:
 * SQA Developer - October 2014 / August 2016
 
 ### 🚀 Enterpreneurial experience
-#### 🔹 Speaqr Technologies S.L (Currently Active)
-* CTO & Co-Founder - June 2023 / Present
+#### 🔹 Speaqr Technologies S.L
+* CTO & Co-Founder - June 2023 / December 2023
 
   We are working in a disruptive AI System that will change the world.
 
